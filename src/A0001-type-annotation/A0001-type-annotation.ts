@@ -12,7 +12,7 @@ const arrayOfStrings: Array<string> = ['a', 'b', 'c'];
 const arrayOfStrings2: string[] = ['a', 'b', 'c'];
 
 // Objects
-// ?: interrogação significa que é opcional
+// ?: interroga??o significa que ? opcional
 const people: { name: string; age: number; adult?: boolean } = {
   name: 'Luiz',
   age: 30,
